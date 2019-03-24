@@ -1,21 +1,20 @@
 # x-or-o-cnn
+
 Experimental node.js implementation of Convolutional Neural Network recognising users input ("X" or "O")
 
 The idea is to create a simple app where user can draw a sign and then my own implementation of CNN will recognise if it's either "X" or "O".
 
-[App](https://michal-wrzosek.github.io/x-or-o-cnn)
+[Demo App](https://michal-wrzosek.github.io/x-or-o-cnn)
 
-===
+## Changelog:
 
-Status: WIP
+*Status: WIP*
 
-##Changelog:
-
-2019-03-24:
+### 2019-03-24:
 - created a project
 - working on drawing canvas
 
-===
+# Development details
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
